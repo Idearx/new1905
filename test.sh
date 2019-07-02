@@ -6,7 +6,7 @@
 
 # Alarm: this script will bomeo.
 
-# https://download.oracle.com/otn/java/jdk/8u211-b12/478a62b7d4e34b78b671c754eaaf38ab/jdk-8u211-linux-x64.tar.gz
+# https://pypi.python.org/packages/source/p/pip/pip-1.5.4.tar.gz
 
 function usage {
   echo "Usage: $0 username."
