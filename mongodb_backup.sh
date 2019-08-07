@@ -10,7 +10,7 @@ echo "备份完成！"
 
 echo "压缩开始"
 
-tar -zcvf "$1.tar.gz" $1
+tar -zcvf "$1.tar.gz" $2/$1
 
 echo "压缩完成"
 
